@@ -1,2 +1,2 @@
 # arduino-proj
-Some Code are error maybe. So it just for my backup. Thanks
+Some Code are error. So it just for my backup.
